@@ -1,0 +1,2 @@
+T | 0 | Read book
+D | 0 | Submit assignment | Friday
