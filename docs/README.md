@@ -1,6 +1,6 @@
 # AirBorder User Guide
 
-Welcome to AirBorder, a sophisticated  customer service chatbot designed to streamline your international air travel experience. This guide provides comprehensive instructions on using all functionalities of AirBorder.
+AirBorder is a Java command-line task manager. This guide describes its task commands; see the repository README for the current source status.
 
 ## Table of Contents
 
@@ -107,6 +107,4 @@ A: AirBorder accepts dates in YYYY-MM-DD format. Please ensure you adhere to thi
 
 ## Support
 
-For support or further assistance, please email us at support@airborder.com or visit our GitHub repository to open an issue.
-
-Thank you for choosing AirBorder for your international travel needs!
+Use this repository’s issue tracker for project questions.
